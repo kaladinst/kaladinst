@@ -27,7 +27,7 @@ My current goal is to ensure that I have a solid foundation and improve my skill
 ---
 
 ### ✍️ Writing & Articles
-I write about complex scientific and philosophical concepts to explore the intersection of technology and theory.
+The writings that i published while i was working at a student club Huawei Student Developers.
 
 - [**Quantum Entanglement: Defining the Impossible**](https://medium.com/@hsdsakaryauniversitesi/kuantum-dolan%C4%B1kl%C4%B1%C4%9F%C4%B1-i%CC%87mkans%C4%B1zl%C4%B1%C4%9F%C4%B1-tan%C4%B1mlamak-1234c01113ea) - *A deep dive into quantum mechanics and non-locality.*
 - [**The End of the Universe: Cosmic Possibilities**](https://medium.com/@hsdsakaryauniversitesi/evrenin-sonu-kozmik-olas%C4%B1l%C4%B1klar-4cc08b491c6c) - *Exploring theoretical astrophysics and the ultimate fate of the cosmos.*
