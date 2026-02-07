@@ -1,12 +1,12 @@
 ### Hi there, I'm Emir 👋
 
-I'm a **3rd-year Computer Engineering student** (2nd Semester, 2.94 GPA) based in **Sakarya, Turkey**. I focus on building scalable backend systems and exploring low-level game development.
+I'm a **3rd-year Computer Engineering student** (2nd Semester, 2.94 GPA) based in **Sakarya University, Turkey**. I focus on building scalable backend systems and exploring low-level game development.
+My current goal right now is to ensure that i have a solid foundation and improve on my skills to help the future organizations that i will be working with.
 
 - 💻 I recently completed a **Chip-8 Emulator** in Java.
 - 🔭 I’m currently working on a **Multi-Level Feedback Queue Scheduler** in C.
 - 🌱 I’m currently learning **Spring Boot** and **Distributed Systems**.
 - 🎮 I’m interested in **Game Engine Architecture** and **System Programming**.
-- ⚡ Fun fact: I'm also deeply into Mass Effect lore and modding!
 
 ---
 
