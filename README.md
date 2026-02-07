@@ -6,6 +6,7 @@ My current goal is to ensure that I have a solid foundation and improve my skill
 
 - 💻 I recently completed a **Chip-8 Emulator** in Java.
 - 💻 I also completed a **Multi-Level Feedback Queue Scheduler** in C.
+- 🌍 I worked on **Akıllı Küre (Smart Globe)**, an IoT project (Documentation & Repository coming soon).
 - 🌱 I’m currently learning **Spring Boot** and **Distributed Systems**.
 - 🎮 I’m interested in **Game Engine Architecture** and **System Programming**.
 
