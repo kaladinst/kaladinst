@@ -4,7 +4,7 @@ I'm a **3rd-year Computer Engineering student** (2nd Semester, 2.94 GPA) based i
 
 My current goal is to ensure that I have a solid foundation and improve my skills to help the future organizations that I will be working with.
 
-- 💻 I recently completed a **Chip-8 Emulator** in Java.
+- 💻 I completed a **Chip-8 Emulator** and **Asteroid Watch** in Java.
 - 💻 I also completed a **Multi-Level Feedback Queue Scheduler** in C.
 - 🌍 I worked on **Akıllı Küre (Smart Globe)**, an IoT project (Documentation & Repository coming soon).
 - 🌱 I’m currently learning **Spring Boot** and **Distributed Systems**.
