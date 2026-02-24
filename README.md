@@ -1,18 +1,23 @@
 ### Hi there, I'm Emir 👋
 
-I'm a **3rd-year Computer Engineering student** (2nd Semester, 2.94 GPA) based in **Sakarya University, Turkey**. I focus on building scalable backend systems and exploring low-level game development.
+I'm a **3rd-year Computer Engineering student** at **Sakarya University, Turkey**. I am passionate about bridging the gap between low-level system mechanics and high-level scalable architecture. I enjoy diving into operating system concepts and applying that theoretical knowledge to build efficient backend systems and game engines.
 
-My current goal is to ensure that I have a solid foundation and improve my skills to help the future organizations that I will be working with.
-
-- 💻 I completed a **Chip-8 Emulator**, **Asteroid Watch** and **Exoplanet Explorer** in Java.
-- 💻 I also completed a **Multi-Level Feedback Queue Scheduler** in C.
-- 🌍 I worked on **Akıllı Küre (Smart Globe)**, an IoT project (Documentation & Repository coming soon).
-- 🌱 I’m currently learning **Spring Boot** and **Distributed Systems**.
-- 🎮 I’m interested in **Game Engine Architecture** and **System Programming**.
+Currently, I am actively seeking summer internship opportunities where I can contribute to impactful projects and level up my engineering skills.
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠️ What I've Been Building
+- 💻 **Systems & Emulation:** Developed a **Chip-8 Emulator** (Java/JavaFX) and a **Multi-Level Feedback Queue Scheduler** in C to deepen my understanding of process management and CPU architecture.
+- 🚀 **Full-Stack & Backend:** Built **Asteroid Watch** and **Exoplanet Explorer** (Java), handling both backend logic and frontend integration.
+- 🌍 **IoT Development:** Engineered **Akıllı Küre (Smart Globe)**, an interactive IoT project integrating hardware sensors (ESP32) with a mobile application (Flutter). *(Documentation & Repository coming soon)*
+
+### 🌱 Currently Exploring
+- Mastering **Spring Boot** for enterprise-level backend development.
+- Diving into **Distributed Systems**, **System Programming**, and **Game Engine Architecture**.
+
+---
+
+### ⚙️ Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -27,7 +32,7 @@ My current goal is to ensure that I have a solid foundation and improve my skill
 ---
 
 ### ✍️ Writing & Articles
-The writings that I published while I was working at a student club, Huawei Student Developers.
+A collection of articles I published exploring the intersection of technology, physics, and philosophy during my time with Huawei Student Developers.
 
 - ⚛️ [**Quantum Entanglement: Defining the Impossible**](https://medium.com/@hsdsakaryauniversitesi/kuantum-dolan%C4%B1kl%C4%B1%C4%9F%C4%B1-i%CC%87mkans%C4%B1zl%C4%B1%C4%9F%C4%B1-tan%C4%B1mlamak-1234c01113ea) - *A deep dive into quantum mechanics and non-locality.*
 - 🌌 [**The End of the Universe: Cosmic Possibilities**](https://medium.com/@hsdsakaryauniversitesi/evrenin-sonu-kozmik-olas%C4%B1l%C4%B1klar-4cc08b491c6c) - *Exploring theoretical astrophysics and the ultimate fate of the cosmos.*
