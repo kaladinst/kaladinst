@@ -9,7 +9,7 @@ Currently, I am actively seeking summer internship opportunities where I can con
 ### 🛠️ What I've Been Building
 - 💻 **Systems & Emulation:** Developed a **Chip-8 Emulator** (Java/JavaFX) and a **Multi-Level Feedback Queue Scheduler** in C to deepen my understanding of process management and CPU architecture.
 - 🚀 **Full-Stack & Backend:** Built **Asteroid Watch** and **Exoplanet Explorer** (Java), handling both backend logic and frontend integration.
-- 🌍 **IoT Development:** Engineered **Akıllı Küre (Smart Globe)**, an interactive IoT project integrating hardware sensors (ESP32) with a mobile application (Flutter). *(Documentation & Repository coming soon)*
+- 🌍 **IoT Development:** Engineered **Akıllı Küre (Smart Globe)**, an interactive IoT project integrating hardware sensors (ESP32) with a mobile application (Flutter).
 
 ### 🌱 Currently Exploring
 - Mastering **Spring Boot** for enterprise-level backend development.
