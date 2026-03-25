@@ -4,6 +4,12 @@ I'm a **3rd-year Computer Engineering student** at **Sakarya University, Turkey*
 
 Currently, I am actively seeking summer internship opportunities where I can contribute to impactful projects and level up my engineering skills.
 
+<p align="left">
+  <a href="https://leetcode.com/u/kaladinst/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+</p>
+
 ---
 
 ### 🛠️ What I've Been Building
